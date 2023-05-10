@@ -5,4 +5,5 @@ This repository links to multiple sales, profit, and business forecast dashboard
 [Black and electric blue sales dashboard by Kristi Bischoff](https://public.tableau.com/app/profile/kristi.bischoff/viz/SalesMapandDistribution/Dashboard1)
 
 ## Preview of dashboard
+
 ![Superstore_blue_dashboard](Superstore_blue.png)
