@@ -6,4 +6,4 @@ This repository links to multiple sales, profit, and business forecast dashboard
 
 ## Preview of dashboard
 
-![Superstore_blue_dashboard](Superstore_blue.png)
+![Superstore_blue_dashboard](Superstore_blue.PNG)
