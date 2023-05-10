@@ -10,6 +10,13 @@ The Superstore Year to Date (YTD) Analysis dashboard was created by me, but it w
 ## Business Sales by Region and Product Type
 This electric blue and black dashboard illustrates sales for each year in the Superstore data set, and the user may select particular years for further investigation. We look deeper at the state-specific sales by density mapping and identify that the highest sales (in dollars) are in California and New York. Additionally, a box and whisker plot details region and segment sales distributions to understand the customer base. Donut charts give a quick overview that most customers are consumers, and technology as a whole takes the majority of sales. Line charts for sales between 2014 and 2018 indicate that all regions in 2018 still have a way to go in sales for the remaining months of the year. 
 
-[Black and electric blue sales dashboard by Kristi Bischoff](https://public.tableau.com/app/profile/kristi.bischoff/viz/SalesMapandDistribution/Dashboard1)
+[Business Sales by Region and Product Type by Kristi Bischoff](https://public.tableau.com/app/profile/kristi.bischoff/viz/SalesMapandDistribution/Dashboard1)
 
 ![Superstore_blue_dashboard](Superstore_blue.PNG)
+
+## Superstore Sales Analysis
+This multicolor dashboard illustrates 2017 sales in the Superstore data set. Here we have fun with different graphing styles including: sunburst, area, line and stacked bars. We get layers upon layers of information in these different graphing styles. For example, the sunburst chart indicates that the greatest sum of sales is from phones in the East region of the United States. The other visuals illustrate higher technology sales and/or the East region having higher sales. The stacked bar chart indicates that consumers take slightly more of the sales out of all segments.
+
+[Superstore Sales Analysis](https://public.tableau.com/app/profile/kristi.bischoff/viz/SuperstoreAnalysisPartII/Dashboard2#1)
+
+![Superstore_blue_dashboard](Superstore_Sales1.PNG)
